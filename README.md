@@ -2,6 +2,7 @@ MachOKit
 ========
 
 [![Build Status](https://img.shields.io/travis/macmade/MachOKit.svg?branch=master&style=flat)](https://travis-ci.org/macmade/MachOKit)
+[![Coverage Status](https://img.shields.io/coveralls/macmade/MachOKit.svg?branch=master&style=flat)](https://coveralls.io/r/macmade/MachOKit?branch=master)
 [![Issues](http://img.shields.io/github/issues/macmade/MachOKit.svg?style=flat)](https://github.com/macmade/MachOKit/issues)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
 ![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)
